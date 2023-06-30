@@ -1,13 +1,9 @@
 # Chrome-Extension-Color-Picker
 This is a Chrome Extension developed for selecting any color displayed on the webpage and giving its Hex Value and display the color seperately in the extension popup.
 
-## Features
-- ..
-- ..
-- ..
 
 ## Author
-First Last
+Aditya Satnalika
 - [Author Website]()
 - [Author Github]()
 - [Project Repository]()
